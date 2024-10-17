@@ -9,3 +9,9 @@
 
 ## 光变
 ### MOSFIT
+
+# 补充一些可能有用的小工具
+## COSMOTOOLS V1.0 （计算luminosity distance/lookback time比较方便）
+http://www.bo.astro.it/~cappi/cosmotools
+## Modified Julian Day Converter （方便换算儒略日）
+http://www.csgnetwork.com/julianmodifdateconv.html
